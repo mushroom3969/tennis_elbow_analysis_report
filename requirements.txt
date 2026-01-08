@@ -1,0 +1,14 @@
+# 基礎網頁介面
+streamlit
+
+# 數據處理與數值計算
+pandas
+numpy
+openpyxl
+
+# 統計核心 (重要：包含 ANOVA 與 Post-hoc)
+pingouin
+
+# 視覺化與繪圖
+matplotlib
+seaborn
